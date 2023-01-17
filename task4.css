@@ -1,0 +1,95 @@
+#head{
+    background-color: rgb(19, 19, 136);
+    border-radius: 20px;
+}
+
+header{
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 50%;
+position: sticky;
+left: 343px;
+top: 10px;
+padding: 20px;
+margin: 50px;
+color: rgb(19, 19, 136);
+background-color: white;
+border-radius: 10px;
+height: 150px;
+z-index: 2;
+}
+#hd1{
+    font-family: 'Sevillana', cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 60px;
+    font-size: 60px;
+    position: absolute;
+    bottom: -66px;
+    left: 116px;
+
+}
+#nav{
+    width: 30%;
+    height: 25px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(19, 19, 136);
+    position: relative;
+    left: 440px;
+    color: snow;
+    border-radius: 15px;
+
+}
+#nav a{
+    text-decoration: none;
+    color: snow;
+}
+body{
+    
+    justify-content: space-evenly;
+    /* background-color: gray; */
+}
+.brow{
+    width: 60%;
+    height: 400px;
+    display: flex;
+    margin: 15px;
+}
+.col1{
+    margin: 35px;
+    height: 400px;
+    width: 300px;
+    background-color: wheat;
+
+}
+.col1:hover{
+    width: 100%;
+}
+#img1{
+    
+    border-radius: 20px;
+}
+#logo{
+    position: absolute;
+    left: 271px;
+    bottom: 35px;
+}
+
+#search{
+    position: absolute;
+    left: 222px;
+    top: 50px;
+}
+
+#frames{
+    width: 40%;
+}
+
+.parent1{
+    display: flex;
+}
+#break{
+    display: block;
+    padding: 30px;
+}
+
